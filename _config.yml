@@ -1,7 +1,7 @@
 title: my awesome Blog! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev/no-style-please # root address of the site
+author: Andrei Gavrilov # name of site's author
+email: solomondin@gmail.com # email of site's author
+url: https://gavrilove.github.io/blog.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
