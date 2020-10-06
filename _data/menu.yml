@@ -5,12 +5,12 @@ entries:
   - title: info
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: a (nearly) no-CSS, fast, minimalist Blog as i like!
         url: false
       - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
+        url: https://github.com/Gavrilove
+      - title: false
+        url: false
 
   - title: thoughts
     post_list: true
@@ -20,7 +20,7 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: another list
+  - title: false
     url: false
     entries:
       - title: with subitems
@@ -33,5 +33,5 @@ entries:
   - title: PRO TIP
     url: false
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
-        url: false
+      - title: Step 0: Read The Hacking Manifesto
+        url: http://www.mithral.com/~beberg/manifesto.html
