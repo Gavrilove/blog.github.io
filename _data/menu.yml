@@ -9,8 +9,7 @@ entries:
         url: false
       - title: github
         url: https://github.com/Gavrilove
-      - title: false
-        url: false
+    
 
   - title: thoughts
     post_list: true
@@ -20,18 +19,9 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: false
-    url: false
-    entries:
-      - title: with subitems
-        url: false
-        entries:
-          - title: with subsubitems
-            url: false
-          - title: example page
-            url: about
+
   - title: PRO TIP
     url: true
     entries:
       - title: Read The Hacking Manifesto
-        url: http://www.mithral.com/~beberg/manifesto.html
+        url: onclick="window.open('"http://www.mithral.com/~beberg/manifesto.htm', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');l
