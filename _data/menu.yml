@@ -31,7 +31,7 @@ entries:
           - title: example page
             url: about
   - title: PRO TIP
-    url: false
+    url: true
     entries:
       - title: Step 0: Read The Hacking Manifesto
         url: http://www.mithral.com/~beberg/manifesto.html
