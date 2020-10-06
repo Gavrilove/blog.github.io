@@ -6,7 +6,7 @@ entries:
     url: false
     entries:
       - title: a (nearly) no-CSS, fast, minimalist Blog as i like!
-        url: false
+        url: true
       - title: github
         url: https://github.com/Gavrilove
       - title: false
