@@ -24,4 +24,4 @@ entries:
     url: true
     entries:
       - title: Read The Hacking Manifesto
-        url: onclick="window.open('"http://www.mithral.com/~beberg/manifesto.htm', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');l
+        url: <a onclick="window.open('"http://www.mithral.com/~beberg/manifesto.htm', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');/a>
