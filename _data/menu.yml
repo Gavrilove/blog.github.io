@@ -17,11 +17,11 @@ entries:
     entries: false
 
   - title: rss
-    url: feed.xml
+    url: false
   
 
   - title: PRO TIP
-    url: true
+    url: false
     entries:
       - title: Read The Hacking Manifesto
         url: https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf
