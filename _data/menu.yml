@@ -9,6 +9,8 @@ entries:
         url: false
       - title: github
         url: https://github.com/Gavrilove
+      - title: Back to my website
+        url: https://gavrilove.github.io/
     
 
   - title: thoughts
